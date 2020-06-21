@@ -1,0 +1,2 @@
+Trying to understand Git in order to implement in live projects
+This is my project for automation
